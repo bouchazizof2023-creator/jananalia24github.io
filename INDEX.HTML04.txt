@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>موقعي</title>
+<meta name="google-site-verification" content="googled6b35dede0bd623d" />
+</head>
+<body>
+<h1>مرحبا بكم في موقعي</h1>
+<a href="https://example.com" target="_blank">زر خارجي</a>
+</body>
+</html>
